@@ -1,5 +1,4 @@
-final url = 'http://192.168.1.2:1111/';
-// final url = 'http://192.168.1.1:1111/';
+final url = 'URL_FROM_RESTAPI';
 
 final registration = url + "registration";
 final login = url + 'login';
